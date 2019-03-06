@@ -14,9 +14,9 @@ GitTestCKT
 软件架构说明
 
 安装教程
-`npm install` /br
-`npm run dev` /br
-`npm run build`
+`npm install` <br>
+`npm run dev` <br>
+`npm run build` <br>
 使用说明
 先这样
 在那样
